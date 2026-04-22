@@ -1,5 +1,3 @@
-# 2060
-
 **We build the open trust layer for the agentic internet.**
 
 2060 is an independent research and engineering company inventing, specifying, and shipping the infrastructure that lets humans, services, and AI agents prove who they are and act under verifiable authority. Open source. Tallinn, Estonia. Founding member of the [Verana Foundation](https://verana.foundation).
