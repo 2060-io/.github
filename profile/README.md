@@ -9,6 +9,10 @@
 - **Neutral protocol** &rarr; [Verana](https://verana.io) &mdash; public trust registry, co-founded through the Verana Foundation
 - **Open specs** &rarr; Verifiable Trust (VT) &amp; the Verifiable Public Registry (VPR)
 
+<p align="center">
+  <img src="assets/long-term2.svg" alt="Building for the long term" width="800" />
+</p>
+
 ---
 
 ## The stack
